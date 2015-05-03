@@ -6,7 +6,7 @@ body
 {
 text-align: center;
 }
-a
+
 {
 font-size: 200%;
 }
@@ -19,7 +19,7 @@ font-size: 200%;
 <h1>Recorded Talk: Online Conference by Pin Pin</h1>
 <iframe width="420" height="315" src="http://www.youtube.com/embed/5nqesAM1psU" frameborder="0" allowfullscreen></iframe>
 <div>
-<a href="http://www.kickstarter.com">Join Discussion!</a>
+<a href="http://www.kickstarter.com">Join Discussion! :)</a>
 </div>
 </div>
 
